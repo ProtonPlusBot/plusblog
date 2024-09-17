@@ -37,8 +37,6 @@ Wait, you possibly didn't think we are going to list out every new feature on th
 
 *[\>﻿ Checkout Screenshots!](https://genesisos.dev/screenshots)*
 
-
-
 ### What's new in the Project?
 
 While we were working on the ROM source, we've also been working hard to improve our infrastructure. In addition to Google Drive, we have now opted for GoFile as our backup storage server, ensuring you always have access to download links for GenesisOS. Old Builds Migration from Sourceforge is still WIP.
